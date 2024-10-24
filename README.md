@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Mình là Chi Kim Chi</h1>
+<h1 align="center">Hi 👋, Mình là Kim Chi</h1>
 <h3 align="center">Mình hiện là sinh viên năm 3 học công nghệ thông tin về chuyên nghành công nghệ phần mềm tại https://huflit.edu.vn/</h3>
 
 - 📫 How to reach me **tranthikimchi23102004@gmail.com**
