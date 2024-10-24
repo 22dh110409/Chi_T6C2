@@ -2,8 +2,8 @@
 <h2 align="left">#Dự Án Quản Lý Nhà Sách - Nhóm 1</h2>
 <h3 align="left">## Giới thiệu</h3>
 <h4 align="left">Mình hiện là sinh viên năm 3 học công nghệ thông tin về chuyên nghành công nghệ phần mềm tại https://huflit.edu.vn/ <br> Hiện tại, mình đang tham gia một dự án nhóm với 4 người bạn, với mục tiêu xây dựng một hệ thống website quản lý nhà sách hiện đại và tiện lợi  </h4>
-<h4 align="left"></h4>
-<h4 align="left">Nhóm mình đã lên kế hoạch và chia dự án thành 3 sprint</h4>
+<h3 align="left">## Thành viên nhóm</h3>
+<h4 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h4>
 <h4 align="left">Nhóm mình đã lên kế hoạch và chia dự án thành 3 sprint</h4>
 
 - 📫 How to reach me **tranthikimchi23102004@gmail.com**
