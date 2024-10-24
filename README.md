@@ -1,9 +1,9 @@
 <h1 align="center">Xin chào, Mình là Chi, Chi trong Kim Chy(●'◡'●)😹</h1>
 <h1 align="left">#Dự Án Quản Lý Nhà Sách - Nhóm 1</h1>
 <h2 align="left">## Giới thiệu</h2>
-<h3 align="left">Mình hiện là sinh viên năm 3 học công nghệ thông tin về chuyên nghành công nghệ phần mềm tại https://huflit.edu.vn/ <br> Hiện tại, mình đang tham gia một dự án nhóm với 4 người bạn, với mục tiêu xây dựng một hệ thống website quản lý nhà sách hiện đại và tiện lợi.  </h3>
+<h4 align="left">Mình hiện là sinh viên năm 3 học công nghệ thông tin về chuyên nghành công nghệ phần mềm tại https://huflit.edu.vn/ <br> Hiện tại, mình đang tham gia một dự án nhóm với 4 người bạn, với mục tiêu xây dựng một hệ thống website quản lý nhà sách hiện đại và tiện lợi.  </h4>
 <h2 align="left">## Thành viên nhóm</h2>
-<h3 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h3>
+<h4 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h4>
 <h2 align="left">## Mục tiêu của dự án</h2>
 <h3 align="left">Xây dựng hệ thống website quản lý nhà sách </h3>
 <h3 align="left">### Sprint 1</h3>
