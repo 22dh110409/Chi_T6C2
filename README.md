@@ -4,9 +4,10 @@
 <h3 align="left">Mình hiện là sinh viên năm 3 học công nghệ thông tin về chuyên nghành công nghệ phần mềm tại https://huflit.edu.vn/ <br> Hiện tại, mình đang tham gia một dự án nhóm với 4 người bạn, với mục tiêu xây dựng một hệ thống website quản lý nhà sách hiện đại và tiện lợi.  </h3>
 <h2 align="left">## Thành viên nhóm</h2>
 <h3 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h3>
-<h2 align="left">##Mục tiêu của dự án</h2>
+<h2 align="left">## Mục tiêu của dự án</h2>
 <h3 align="left">Xây dựng hệ thống website quản lý nhà sách </h3>
-<h3 align="left">###Mục tiêu của dự án</h3>
+<h3 align="left">### Sprint 1</h3>
+<h4 align="left">1. Xem trang chủ <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <BR>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
 
 - 📫 How to reach me **tranthikimchi23102004@gmail.com**
 
