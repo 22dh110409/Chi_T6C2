@@ -7,7 +7,11 @@
 <h2 align="left">## Mục tiêu của dự án</h2>
 <h3 align="left">Xây dựng hệ thống website quản lý nhà sách </h3>
 <h3 align="left">### Sprint 1</h3>
-<h4 align="left">1. Xem trang chủ <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <BR>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
+<h4 align="left">1. Xem trang chủ <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
+<h3 align="left">### Sprint 2</h3>
+<h4 align="left">1. Quản lý thông tin tài khoản (Thêm, xóa, sửa thông tin) <Br>2. Xem số lượng sản phẩm trong kho <Br>3. Xem danh sách đơn hàng <Br>4. Quản lý sản phẩm (Thêm, sửa, xóa sản phẩm) <Br>5. Quản lý kho (Thêm, sửa, xóa sản phẩm trong kho) </h4>
+<h3 align="left">### Sprint 3</h3>
+<h4 align="left">1. Đặt hàng <Br>2. Thanh toán hóa đơn đặt hàng <Br>3. Theo dõi trạng thái đơn hàng <Br>4. Tạo đơn hàng <Br>5. In hóa đơn <Br>6. Xử lý thanh toán </h4>
 
 - 📫 How to reach me **tranthikimchi23102004@gmail.com**
 
