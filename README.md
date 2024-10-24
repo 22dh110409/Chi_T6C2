@@ -1,5 +1,5 @@
-<h1 align="left">Xin chào, Mình là Chi, Chi trong Kim Chy(●'◡'●)😹🎈</h1>
-<h1 align="left">🎈Dự Án Quản Lý Nhà Sách - Nhóm 1🎈</h1>
+<h1 align="left">Xin chào, Mình là Chi, Chi trong Kim Chy(●'◡'●)😹</h1>
+<h1 align="left">🎈Dự Án Quản Lý Nhà Sách - Nhóm 1</h1>
 <h2 align="left">🎈🎈 Giới thiệu</h2>
 <h4 align="left">Mình hiện là sinh viên năm 3 học công nghệ thông tin về chuyên nghành công nghệ phần mềm tại https://huflit.edu.vn/ <br> Hiện tại, mình đang tham gia một dự án nhóm với 4 người bạn, với mục tiêu xây dựng một hệ thống website quản lý nhà sách hiện đại và tiện lợi.  </h4>
 <h2 align="left">🎈🎈 Thành viên nhóm</h2>
