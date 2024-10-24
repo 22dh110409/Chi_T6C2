@@ -5,6 +5,8 @@
 <h2 align="left">## Thành viên nhóm</h2>
 <h3 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h3>
 <h2 align="left">##Mục tiêu của dự án</h2>
+<h3 align="left">Xây dựng hệ thống website quản lý nhà sách </h3>
+<h3 align="left">###Mục tiêu của dự án</h3>
 
 - 📫 How to reach me **tranthikimchi23102004@gmail.com**
 
